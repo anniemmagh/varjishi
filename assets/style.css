@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(95, 179, 151);
+    margin: 0%;
+}
+header {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    background-color: brown;
+}
+.navigation{
+    width: 100%;
+}
+.nav-link {
+    margin: left 15%; ;
+}
+ul {
+    display: flex;
+    list-style: none;
+
+}
+div {
+    background-color: rgb(57, 57, 112);
+    width: 100px;
+    height: 60px;
+}
